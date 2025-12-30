@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+venv2/
+# Environment variables
+.env
+
+# Specific notebook (vanilla prototype)
+04-vanilla-python-notebook-v1.ipynb
+
+# Dependency file (exclude on purpose)
+requirements.txt
